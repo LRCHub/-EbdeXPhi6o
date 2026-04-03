@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "kaleidoscope",
+  "base_artist": "ChouCho",
+  "createdAt": "2026-04-03T09:48:01.757267Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kaleidoscope",
+      "artist": "Procol Harum",
+      "has_synced": false,
+      "path": "select/01_Kaleidoscope_Procol_Harum.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kaleidoscope",
+      "artist": "Paul van Dyk",
+      "has_synced": true,
+      "path": "select/02_Kaleidoscope_Paul_van_Dyk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kaleidoscope Love",
+      "artist": "AlunaGeorge",
+      "has_synced": true,
+      "path": "select/03_Kaleidoscope_Love_AlunaGeorge.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kaleidoscope Skies",
+      "artist": "Jam & Spoon",
+      "has_synced": true,
+      "path": "select/04_Kaleidoscope_Skies_Jam_&_Spoon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kaleidoscope",
+      "artist": "Matt Bianco",
+      "has_synced": true,
+      "path": "select/05_Kaleidoscope_Matt_Bianco.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kaleidoscope Heart",
+      "artist": "Sara Bareilles",
+      "has_synced": true,
+      "path": "select/06_Kaleidoscope_Heart_Sara_Bareilles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kaleidoscope of Desire",
+      "artist": "Cathedral",
+      "has_synced": false,
+      "path": "select/07_Kaleidoscope_of_Desire_Cathedral.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kaleidoscope",
+      "artist": "Blink-182",
+      "has_synced": true,
+      "path": "select/08_Kaleidoscope_Blink-182.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kaleidoscope",
+      "artist": "The Veronicas",
+      "has_synced": true,
+      "path": "select/09_Kaleidoscope_The_Veronicas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kaleidoscope - 2001 Remaster",
+      "artist": "Ride",
+      "has_synced": true,
+      "path": "select/10_Kaleidoscope_-_2001_Remaster_Ride.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kaleidoscope",
+      "artist": "Ride",
+      "has_synced": true,
+      "path": "select/11_Kaleidoscope_Ride.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kaleidoscope",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/12_Kaleidoscope_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kaleidoscope",
+      "artist": "Amplifier",
+      "has_synced": true,
+      "path": "select/13_Kaleidoscope_Amplifier.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kaleidoscope",
+      "artist": "Procol Harum",
+      "has_synced": true,
+      "path": "select/14_Kaleidoscope_Procol_Harum.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "kaleidoscope",
+      "artist": "ChouCho",
+      "has_synced": false,
+      "path": "select/pl_01_kaleidoscope_ChouCho.txt"
+    }
+  ]
+}
